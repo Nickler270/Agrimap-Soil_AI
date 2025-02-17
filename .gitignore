@@ -1,0 +1,43 @@
+# Virtual environment (venv)
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Logs and debug files
+logs/
+*.log
+*.out
+*.err
+
+# Django-specific
+db.sqlite3
+media/
+staticfiles/
+*.db
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and secrets
+.env
+*.secret
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies (if using Pipenv or Poetry)
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Migrations (optional, but recommended to track them manually)
+*/migrations/*.py
+*/migrations/*.pyc
