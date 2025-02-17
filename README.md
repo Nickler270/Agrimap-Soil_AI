@@ -48,8 +48,8 @@ pip install -r requirements.txt
 Create a `.env` file in the project root and add:
 ```ini
 DEBUG=True
-SECRET_KEY=your_secret_key
-DATABASE_URL=your_database_url
+SECRET_KEY=secret_key
+DATABASE_URL=database_url
 ```
 
 ### 5️⃣ Apply Migrations & Start Server
@@ -80,8 +80,8 @@ This project is licensed under the **MIT License/APACHE LICENSE** – fork away!
 ---
 
 ## 📞 Contact & Support
-- **Email:** [your-email@example.com]
-- **Website:** [your-project-url.com]
+- **Email:** ??
+- **Website:** ??
 - **GitHub Issues:** [Issue Tracker](https://github.com/your-username/Agrimap-Soil_AI/issues)
 
 📌 **Let’s build smarter soil mapping together!** 🚜🌍
