@@ -32,7 +32,9 @@ git clone https://github.com/your-username/Agrimap-Soil_AI.git
 cd Agrimap-Soil_AI
 ```
 
-### 2️⃣ Set Up Virtual Environment
+### PLEASE MIND THE DIRECTORY YOU ENTER BEFORE PROCEEDING (BACKEND/FRONTEND)
+
+### 2️⃣ Set Up Virtual Environment 
 ```bash
 python -m venv venv
 source venv/bin/activate  # MacOS/Linux
