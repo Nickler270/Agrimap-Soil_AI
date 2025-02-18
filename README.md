@@ -19,7 +19,7 @@ Agrimap-Soil_AI is an AI-driven solution designed to provide accurate soil mappi
 - **Backend:** Django, Django REST Framework (DRF)
 - **AI/ML:** ???
 - **Database:** MYSQL
-- **Frontend (if applicable):** HTML, JS
+- **Frontend:** HTML, JS
 - **Deployment:** Docker, Kubernetes, AWS/GCP???
 
 ---
